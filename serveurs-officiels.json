@@ -1,0 +1,4 @@
+{
+  "explication": "Les serveurs officiels de TalkAccess dans la liste publique de Mumble. Le client marque « officiel » un serveur de cette liste dont l'adresse (hote) et le port sont ici. Pour en ajouter un : {\"hote\": \"adresse.exemple.org\", \"port\": 64738}, séparés par des virgules ; sans port, c'est 64738.",
+  "serveurs": []
+}
